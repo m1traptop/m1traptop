@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @m1traptop
-- 👀 I’m interested in learnign and becoming a programmer
+- 👀 I’m interested in learning and becoming a programmer
 - 🌱 I’m currently learning the python coding language
 - 💞️ I’m looking to collaborate on anything that can help further my progression toward my dreams
-- 📫 How to reach me 
+- 📫 How to reach me - m1traptop@gmail.com
 
 <!---
 m1traptop/m1traptop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
